@@ -122,21 +122,11 @@ We used a **Microservices Architecture** — each feature runs as its own indepe
 
 * Screenshots
 
-* Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
-
-* Parking Sensor Setup
-![Parking](assets/screenshots/parking.png)
-
-* WhatsApp Alerts
-![Alerts](assets/screenshots/whatsapp.png)
-
-* Visitor Gate System
-![Gate](assets/screenshots/gate.png)
-
-*Team Working
-![Team](assets/screenshots/team.png)
-
+![Dashboard](dashboard.png)
+![Parking](parking.png)
+![Alerts](whatsapp.png)
+![Gate](gate.png)
+![Team](team.png)
 ---
 
 * Team
