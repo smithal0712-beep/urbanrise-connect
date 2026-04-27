@@ -1,11 +1,11 @@
-# 🏢 UrbanRise Connect — Smart Community Management System
+# 🏢 HighRise Connect — Smart Community Management System
 
 [![Status](https://img.shields.io/badge/Status-Live%20%26%20Deployed-brightgreen)]()
 [![AI](https://img.shields.io/badge/AI-Claude%20API-blueviolet)]()
 [![WhatsApp](https://img.shields.io/badge/Alerts-WhatsApp%20Business%20API-25D366)]()
 [![Built In](https://img.shields.io/badge/Built%20In-7%20Days-orange)]()
 
-> UrbanRise is a large high-rise residential community with 500+ flats.
+> HighRise Connect is a large high-rise residential community with 500+ flats.
 > They had zero digital system for visitors, parking, maids, or couriers.
 > We built and deployed a complete AI-powered solution in just 7 days.
 
@@ -13,7 +13,7 @@
 
  🔴 The Problem We Solved
 
-Before our system, this is what was happening at UrbanRise every single day:
+Before our system, this is what was happening at HighRise  every single day:
 
 - Security guards were writing visitor names **by hand in a paper register**
 - Residents had **no idea** when their courier arrived — packages were stolen
@@ -63,7 +63,7 @@ We fixed all of it.
 
 | Day | What We Did |
 |-----|-------------|
-| Day 1 | Visited UrbanRise. Understood every problem. Designed full system architecture. Split work between teammates. |
+| Day 1 | Visited HighRise . Understood every problem. Designed full system architecture. Split work between teammates. |
 | Day 2 | Set up Raspberry Pi nodes. Connected ultrasonic sensors and cameras at parking bays and gates. |
 | Day 3 | Built the backend — FastAPI, PostgreSQL database, Kafka message queue, Docker setup. |
 | Day 4 | Integrated YOLOv8 for person detection at gates. Integrated DeepFace for maid face recognition. |
@@ -141,7 +141,7 @@ We used a **Microservices Architecture** — each feature runs as its own indepe
 
 * Currently Live
 
-This system is **deployed and actively running** at UrbanRise Community.
+This system is **deployed and actively running** at HighRise  Community.
 Hosting: Ubuntu VPS · Docker · Cloudflare SSL · Nginx
 
 ---
